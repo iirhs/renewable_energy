@@ -1,1 +1,0 @@
-# renewable_energy
