@@ -1,4 +1,4 @@
-# ⚡ Renewable Energy Grid Analysis — Germany 2023
+# ⚡ Renewable Energy Grid Analysis - Germany 2023
 
 An end-to-end data analysis project examining hourly solar and wind generation vs. grid demand across Germany for the full year 2023 — identifying curtailment hours, negative-price risk periods, and estimating the battery storage capacity needed to reduce energy waste.
 
